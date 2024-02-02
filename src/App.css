@@ -1,0 +1,28 @@
+.weather-cards{
+  display: flex;
+justify-content: center;
+margin-top:20px
+}
+.card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 10px 40px;
+  text-align: center;
+}
+.search-bar{
+  text-align: center;
+  margin-top: 20px;
+}
+input{
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  border: 0px;
+  height: 37px;
+  width: 200px;
+}
+button{
+  background: #4caf50;
+  border: 0px;
+  height: 37px;
+  color: white;
+  width: 80px;
+}
